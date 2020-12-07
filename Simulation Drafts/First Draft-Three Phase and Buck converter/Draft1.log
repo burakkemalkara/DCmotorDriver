@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Burak\Desktop\EE463\EE463_HardwareProject-M.P.W.U-electronics-\Simulation Drafts\First Draft-Three Phase and Buck converter\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Jan 15 23:54:12 2020
+Total elapsed time: 7.728 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3746329
+traniter = 3746323
+tranpoints = 901820
+accept = 612104
+rejected = 289716
+matrix size = 12
+fillins = 4
+solver = Normal
+Matrix Compiler1: 620 bytes object code size  0.2/0.2/[0.1]
+Matrix Compiler2: 934 bytes object code size  0.1/0.3/[0.1]
+
